@@ -1,3 +1,3 @@
-LINK DO DEPLOY:
+✔✔DEPLOY✔✔
 
 https://projeto-portifolio2.vercel.app/
