@@ -1,3 +1,3 @@
 ✔✔DEPLOY✔✔
 
-https://projeto-portifolio2.vercel.app/
+https://projeto-website2.vercel.app/
