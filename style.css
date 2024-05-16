@@ -398,6 +398,14 @@ footer .line-footer p a{
     margin-left: 5px;
 }
 
+.direito p {
+    display: flex;
+    color: #fff;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
 @media screen and (max-width: 1020px){
     /* CLASSES GERAIS */
     .flex{
@@ -487,6 +495,15 @@ footer .line-footer p a{
 
     footer .line-footer{
         text-align: center;
+    }
+
+    .direito p {
+        font-size: 13px;
+        display: flex;
+        color: #fff;
+        margin-top: 20px;
+        justify-content: center;
+        align-items: center;
     }
 
 }
