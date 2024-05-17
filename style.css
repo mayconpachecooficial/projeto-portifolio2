@@ -506,4 +506,8 @@ footer .line-footer p a{
         align-items: center;
     }
 
+    .btn-social i{
+        color: black;
+    }
+
 }
